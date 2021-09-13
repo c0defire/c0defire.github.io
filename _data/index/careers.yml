@@ -2,10 +2,13 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Accenture Federal Services    i18n: company_b  desc:    detail: Analyzed security events and logs. Advising incident responders in the steps to take to investigate and resolve computer security incidents. Differentiate between true security events and false positives. Performed skilled analysis to determine root cause. Created and tracked security investigations to resolution. Processed and conveyed technical details clearly to a range of audiences, both in writing and verbally. Communicated effectively and clearly to leadership with relevant level of detail. Looked for process improvements and long-range issues and escalated those to Team Leads. Worked independently, delivering timely solutions without direct supervision.
+    detail: Accenture Federal Services
+    i18n: company_b
+  desc:
+    detail: Analyzed security events and logs. Advising incident responders in the steps to take to investigate and resolve computer security incidents. Differentiate between true security events and false positives. Performed skilled analysis to determine root cause. Created and tracked security investigations to resolution. Processed and conveyed technical details clearly to a range of audiences, both in writing and verbally. Communicated effectively and clearly to leadership with relevant level of detail. Looked for process improvements and long-range issues and escalated those to Team Leads. Worked independently, delivering timely solutions without direct supervision.
     i18n: company_b_desc
   date:
-    detail: Jun. 2021 - Aug. 2021
+    detail: Jun. 2021 - Aug. 202
     i18n: company_b_date
   job:
     detail: Cyber Incident Response Team
