@@ -1,58 +1,33 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: XSStrike
-  i18n: XSStrike
-  gh_user: s0md3v
-  repo: XSStrike
-  img: /static/assets/img/github_images/XSStrike.png
-  desc: Fork Repo - Most advanced XSS scanner.
-
-- name: glances
-  i18n: glances
-  gh_user: nicolargo
-  repo: glances
-  img: /static/assets/img/github_images/Glances.png
-  desc: Fork Repo - A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-
-- name: flux
-  i18n: flux
-  gh_user: samyoyo
-  repo: flux
-  img: /static/assets/img/github_images/GitHub_Repo.png
-  desc: Fork Repo - WIFI CRACKER
-
-- name: airgeddon
-  i18n: airgeddon
-  gh_user: v1s1t0r1sh3r3
-  repo: airgeddon
-  img: /static/assets/img/github_images/airgeddon.png
-  desc: Fork Repo - This is a multi-use bash script for Linux systems to audit wireless networks.
-
-- name: GeoIpLocator
-  i18n: GeoIpLocator
+- name: Personal Website
+  i18n: c0defire.github.io
   gh_user: c0defire
-  repo: GeoIpLocator
+  repo:  c0defire.github.io
   img: /static/assets/img/github_images/GitHub_Repo.png
-  desc: This script analyses your auth.log for failed attempts.
+  desc: Fork Repo - Personal Website
 
-- name: Shell-Scripts
-  i18n: Shell-Scripts
+- name: Updater
+  i18n: Updater
   gh_user: c0defire
-  repo: Shell-Scripts
+  repo: Updater
   img: /static/assets/img/github_images/GitHub_Repo.png
-  desc: Collection of bash scripts.
-
+  desc: Updates your linux OS.
+  
 - name: HostLocate
   i18n: HostLocate
   gh_user: c0defire
   repo: javieHostLocaterfaustino
   img: /static/assets/img/github_images/GitHub_Repo.png
   desc: Finds hosts on network using ping.
-
-- name: javierfaustino.com
-  i18n: javierfaustino.com
+  
+  - name: GeoIpLocator
+  i18n: GeoIpLocator
   gh_user: c0defire
-  repo: javierfaustino.com
+  repo: GeoIpLocator
   img: /static/assets/img/github_images/GitHub_Repo.png
-  desc: Fork Repo - Personal Website
+  desc: This script analyses your auth.log for failed attempts.
+
+
+
