@@ -22,7 +22,7 @@
   img: /static/assets/img/github_images/GitHub_Repo.png
   desc: Finds hosts on network using ping.
   
-  - name: GeoIpLocator
+- name: GeoIpLocator
   i18n: GeoIpLocator
   gh_user: c0defire
   repo: GeoIpLocator
