@@ -8,10 +8,10 @@
     detail: Analyzed security events and logs. Advising incident responders in the steps to take to investigate and resolve computer security incidents. Differentiate between true security events and false positives. Performed skilled analysis to determine root cause. Created and tracked security investigations to resolution. Processed and conveyed technical details clearly to a range of audiences, both in writing and verbally. Communicated effectively and clearly to leadership with relevant level of detail. Looked for process improvements and long-range issues and escalated those to Team Leads. Worked independently, delivering timely solutions without direct supervision.
     i18n: company_b_desc
   date:
-    detail: Jun. 2021 - Aug. 202
+    detail: Jun. 2021 - Present
     i18n: company_b_date
   job:
-    detail: Cyber Incident Response Team
+    detail: Senior Cyber Incident Response Analyst
     i18n: company_b_job
   icon: fa-briefcase
   present: true
@@ -23,7 +23,7 @@
     detail: Provided IDS monitoring and analysis, network traffic and log analysis, prioritization and differentiation between potential intrusion attempts, determination of false alarms, insider threat and APT detection, and malware analysis/forensics. Advised incident responders in the steps to take to investigate and resolve computer security incidents.
     i18n: company_b_desc
   date:
-    detail: Oct. 2019
+    detail: Oct. 2019 - Jun. 2021
     i18n: company_b_date
   job:
     detail: Senior Cyber Security Analyst
