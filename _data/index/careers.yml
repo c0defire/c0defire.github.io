@@ -1,124 +1,121 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
-
-- name:
+--- 
+- 
+  date: 
+    detail: "Aug. 2022 - Present"
+    i18n: company_b_date
+  desc: 
+    detail: "Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management. Linux experience. Python Experience."
+    i18n: company_b_desc
+  icon: fa-briefcase
+  job: 
+    detail: "Senior Cyber Security Analyst"
+    i18n: company_b_job
+  name: 
     detail: Adlumin
     i18n: company_b
-  desc:
-    detail: 
-    Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management.
-    Linux experience. Python Experience.
-    i18n: company_b_desc
-  date:
-    detail: Aug. 2022 - Present
-    i18n: company_b_date
-  job:
-    detail: Senior Cyber Security Analyst
-    i18n: company_b_job
-  icon: fa-briefcase
   present: true
-
-- name:
-    detail: Accenture Federal Services
-    i18n: company_b
-  desc:
-    detail: Analyzed security events and logs. Advising incident responders in the steps to take to investigate and resolve computer security incidents. Differentiate between true security events and false positives. Performed skilled analysis to determine root cause. Created and tracked security investigations to resolution. Processed and conveyed technical details clearly to a range of audiences, both in writing and verbally. Communicated effectively and clearly to leadership with relevant level of detail. Looked for process improvements and long-range issues and escalated those to Team Leads. Worked independently, delivering timely solutions without direct supervision.
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2021 - Aug. 2022
+- 
+  date: 
+    detail: "Jun. 2021 - Aug. 2022"
     i18n: company_b_date
-  job:
-    detail: Senior Cyber Incident Response Analyst
-    i18n: company_b_job
+  desc: 
+    detail: "Analyzed security events and logs. Advising incident responders in the steps to take to investigate and resolve computer security incidents. Differentiate between true security events and false positives. Performed skilled analysis to determine root cause. Created and tracked security investigations to resolution. Processed and conveyed technical details clearly to a range of audiences, both in writing and verbally. Communicated effectively and clearly to leadership with relevant level of detail. Looked for process improvements and long-range issues and escalated those to Team Leads. Worked independently, delivering timely solutions without direct supervision."
+    i18n: company_b_desc
   icon: fa-briefcase
-  present: false
-
-- name:
-    detail: Accenture Federal Services
-    i18n: company_b
-  desc:
-    detail: Provided IDS monitoring and analysis, network traffic and log analysis, prioritization and differentiation between potential intrusion attempts, determination of false alarms, insider threat and APT detection, and malware analysis/forensics. Advised incident responders in the steps to take to investigate and resolve computer security incidents.
-    i18n: company_b_desc
-  date:
-    detail: Oct. 2019 - Jun. 2021
-    i18n: company_b_date
-  job:
-    detail: Senior Cyber Security Analyst
+  job: 
+    detail: "Senior Cyber Incident Response Analyst"
     i18n: company_b_job
+  name: 
+    detail: "Accenture Federal Services"
+    i18n: company_b
+  present: false
+- 
+  date: 
+    detail: "Oct. 2019 - Jun. 2021"
+    i18n: company_b_date
+  desc: 
+    detail: "Provided IDS monitoring and analysis, network traffic and log analysis, prioritization and differentiation between potential intrusion attempts, determination of false alarms, insider threat and APT detection, and malware analysis/forensics. Advised incident responders in the steps to take to investigate and resolve computer security incidents."
+    i18n: company_b_desc
   icon: fa-briefcase
-  present: false
-
-- name:
-    detail: Western Governors University
-    i18n: company_b
-  desc:
-    detail: Studied Cyber Security at Western Governors University, persuing a Masters in Cyber Security.
-    i18n: company_b_desc
-  date:
-    detail: Jan. 2019
-    i18n: company_b_date
-  job:
-    detail: College Student
+  job: 
+    detail: "Senior Cyber Security Analyst"
     i18n: company_b_job
+  name: 
+    detail: "Accenture Federal Services"
+    i18n: company_b
+  present: false
+- 
+  date: 
+    detail: "Jan. 2019"
+    i18n: company_b_date
+  desc: 
+    detail: "Studied Cyber Security at Western Governors University, persuing a Masters in Cyber Security."
+    i18n: company_b_desc
   icon: fa-university
+  job: 
+    detail: "College Student"
+    i18n: company_b_job
+  name: 
+    detail: "Western Governors University"
+    i18n: company_b
   present: true
-
-- name:
+- 
+  date: 
+    detail: "Dec. 2016"
+    i18n: company_b_date
+  desc: 
+    detail: "Active participant in both public and private bug bounty programs through responsible disclosure of application security vulnerabilities (Web & mobile) to high-profile organizations using HackerOne platform."
+    i18n: company_b_desc
+  icon: fa-terminal
+  job: 
+    detail: "Bug Bounty Hunter"
+    i18n: company_b_job
+  name: 
     detail: Hackerone
     i18n: company_b
-  desc:
-    detail: Active participant in both public and private bug bounty programs through responsible disclosure of application security vulnerabilities (Web & mobile) to high-profile organizations using HackerOne platform.
-    i18n: company_b_desc
-  date:
-    detail: Dec. 2016
-    i18n: company_b_date
-  job:
-    detail: Bug Bounty Hunter
-    i18n: company_b_job
-  icon: fa-terminal
   present: true
-
-- name:
-    detail: AT&T UC - Insight Global
-    i18n: company_b
-  desc:
-    detail: Provided both strategic analysis and near real-time auditing, investigating, reporting, coordinating and tracking of security-related activities for the AT&T SOC.
-    i18n: company_b_desc
-  date:
-    detail: Jan. 2019 - Jul. 2019
+- 
+  date: 
+    detail: "Jan. 2019 - Jul. 2019"
     i18n: company_b_date
-  job:
-    detail: Cyber Security Analyst
-    i18n: company_b_job
+  desc: 
+    detail: "Provided both strategic analysis and near real-time auditing, investigating, reporting, coordinating and tracking of security-related activities for the AT&T SOC."
+    i18n: company_b_desc
   icon: fa-briefcase
+  job: 
+    detail: "Cyber Security Analyst"
+    i18n: company_b_job
+  name: 
+    detail: "AT&T UC - Insight Global"
+    i18n: company_b
   present: false
-
-- name:
-    detail: 22nd Century Technologies
-    i18n: company_b
-  desc:
-    detail: Provided both strategic analysis and near real-time auditing, investigating, reporting, coordinating and tracking of security-related activities for the USAF SOC.
-    i18n: company_b_desc
-  date:
-    detail: Oct. 2017 - Jan. 2019
+- 
+  date: 
+    detail: "Oct. 2017 - Jan. 2019"
     i18n: company_b_date
-  job:
-    detail: Cyber Security Analyst
-    i18n: company_b_job
+  desc: 
+    detail: "Provided both strategic analysis and near real-time auditing, investigating, reporting, coordinating and tracking of security-related activities for the USAF SOC."
+    i18n: company_b_desc
   icon: fa-briefcase
+  job: 
+    detail: "Cyber Security Analyst"
+    i18n: company_b_job
+  name: 
+    detail: "22nd Century Technologies"
+    i18n: company_b
   present: false
-
-- name:
-    detail: Avue Technologies Corp
-    i18n: company_b
-  desc:
-    detail: Maintained AWS Cloud Server’s performance and uptime by determining the best, easily deployable, least intrusive security solutions necessary to satisfy FedRAMP security requirements.
-    i18n: company_b_desc
-  date:
-    detail: Jan. 2016 - Apr. 2017
+- 
+  date: 
+    detail: "Jan. 2016 - Apr. 2017"
     i18n: company_b_date
-  job:
-    detail: Intern, Security DevOps Engineer
-    i18n: company_b_job
+  desc: 
+    detail: "Maintained AWS Cloud Server’s performance and uptime by determining the best, easily deployable, least intrusive security solutions necessary to satisfy FedRAMP security requirements."
+    i18n: company_b_desc
   icon: fa-briefcase
+  job: 
+    detail: "Intern, Security DevOps Engineer"
+    i18n: company_b_job
+  name: 
+    detail: "Avue Technologies Corp"
+    i18n: company_b
   present: false
