@@ -58,7 +58,7 @@
   name: 
     detail: "Western Governors University"
     i18n: company_b
-  present: true
+  present: false
 - 
   date: 
     detail: "Dec. 2016"
