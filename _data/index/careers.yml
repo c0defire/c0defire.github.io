@@ -1,7 +1,22 @@
 --- 
 - 
   date: 
-    detail: "Aug. 2022 - Present"
+    detail: "Aug. 2023 - Present"
+    i18n: company_b_date
+  desc: 
+    detail: "Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management. Linux experience. Python Experience."
+    i18n: company_b_desc
+  icon: fa-briefcase
+  job: 
+    detail: "Tier 3 Senior Security Analyst"
+    i18n: company_b_job
+  name: 
+    detail: Adlumin
+    i18n: company_b
+  present: true
+- 
+  date: 
+    detail: "Jul. 2022 - Aug. 2023"
     i18n: company_b_date
   desc: 
     detail: "Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management. Linux experience. Python Experience."
@@ -13,8 +28,8 @@
   name: 
     detail: Adlumin
     i18n: company_b
-  present: true
-- 
+  present: false
+  -
   date: 
     detail: "Jun. 2021 - Aug. 2022"
     i18n: company_b_date
