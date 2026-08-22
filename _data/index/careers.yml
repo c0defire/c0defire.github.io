@@ -124,7 +124,7 @@
     detail: "Jan. 2016 - Apr. 2017"
     i18n: company_b_date
   desc: 
-    detail: "Maintained AWS Cloud Server’s performance and uptime by determining the best, easily deployable, least intrusive security solutions necessary to satisfy FedRAMP security requirements."
+    detail: "Maintained AWS Cloud Server's performance and uptime by determining the best, easily deployable, least intrusive security solutions necessary to satisfy FedRAMP security requirements."
     i18n: company_b_desc
   icon: fa-briefcase
   job: 
