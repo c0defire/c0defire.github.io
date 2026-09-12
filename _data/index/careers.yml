@@ -1,10 +1,40 @@
 --- 
 - 
   date: 
-    detail: "Aug. 2023 - Present"
+    detail: "May 2026 - Present"
     i18n: company_b_date
   desc: 
-    detail: "Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management. Linux experience. Python Experience."
+    detail: "Lead N-able's Managed Detection and Response (MDR) and incident response teams. Assign analysts to incidents based on severity and expertise, and serve as incident commander during active threats — driving containment and mitigation, organizing response efforts, and preserving incident evidence files. Protect client tenants from advanced persistent threats, ransomware, and malware outbreaks."
+    i18n: company_b_desc
+  icon: fa-briefcase
+  job: 
+    detail: "Incident Response Manager"
+    i18n: company_b_job
+  name: 
+    detail: "N-able Technologies"
+    i18n: company_b
+  present: true
+- 
+  date: 
+    detail: "Nov. 2024 - May 2026"
+    i18n: company_b_date
+  desc: 
+    detail: "Served as technical lead for the principal incident response team of 23 analysts following N-able's acquisition of Adlumin. Authored detailed incident reports for executive clients. Led deep-dive technical investigations into malware activity, business email compromise, ransomware, and persistent threats. Built internal tooling that aids SOC analysts in their investigations. Key wins include protecting tenants from APT intrusions, containing ransomware incidents, and mitigating malware-infected endpoints."
+    i18n: company_b_desc
+  icon: fa-briefcase
+  job: 
+    detail: "Senior MDR Cybersecurity Tech Lead"
+    i18n: company_b_job
+  name: 
+    detail: "N-able Technologies"
+    i18n: company_b
+  present: false
+- 
+  date: 
+    detail: "Aug. 2023 - Nov. 2024"
+    i18n: company_b_date
+  desc: 
+    detail: "Architected and ran the security detection and response program protecting the firm's data and IP from internal and external threats. Hunted for and responded to malicious activity and anomalous events across company devices and networks. Built Python-based tooling to automate detection and accelerate future response. Partnered with end-user support on investigations, endpoint vulnerability scanning, and software approval requests."
     i18n: company_b_desc
   icon: fa-briefcase
   job: 
@@ -13,13 +43,13 @@
   name: 
     detail: Adlumin
     i18n: company_b
-  present: true
+  present: false
 - 
   date: 
     detail: "Jul. 2022 - Aug. 2023"
     i18n: company_b_date
   desc: 
-    detail: "Architect and run security detection and response program to protect the firms Data and IP from both internal and external threats. Hunt for, detect, and respond to malicious activity and anomalous events on company devices and networks. Develop tools to automate this detection and automatically find and address future vulnerabilities. Collaborate closely with end user support team on investigations, vulnerability scanning across endpoints, responding to end user issues, and responding to software approval requests. 5+ years of experience in cyber security, with specific experience in security operations and vulnerability management. Linux experience. Python Experience."
+    detail: "Performed security operations and vulnerability management across the enterprise. Triaged security alerts, investigated suspicious endpoint and network activity, and escalated confirmed threats. Administered Linux systems and developed Python scripts to streamline recurring analyst workflows."
     i18n: company_b_desc
   icon: fa-briefcase
   job: 
@@ -64,11 +94,11 @@
     detail: "Jan. 2019"
     i18n: company_b_date
   desc: 
-    detail: "Studied Cyber Security at Western Governors University, persuing a Masters in Cyber Security."
+    detail: "Studied Cyber Security at Western Governors University, pursuing a Masters in Cyber Security."
     i18n: company_b_desc
   icon: fa-university
   job: 
-    detail: "College Student"
+    detail: "Graduate Student"
     i18n: company_b_job
   name: 
     detail: "Western Governors University"
